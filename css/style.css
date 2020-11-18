@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    font-size: 1rem;
+}
+
+.gradient{
+    background: rgb(0,7,36);
+    background: linear-gradient(90deg, rgba(0,7,36,1) 0%,
+     rgba(4,44,65,0.4066001400560224) 0%, 
+    rgba(107,49,233,1) 0%, 
+     rgba(3,42,211,1) 100%, rgba(0,219,255,1) 100%);
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
